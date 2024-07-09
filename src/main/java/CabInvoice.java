@@ -17,6 +17,7 @@ public class CabInvoice {
         return min_fare;
     }
 
+    //Calculating fare
     public static double totalFareJourney(double km_distance,double min_travel){
         return (km_distance * cost_per_Km) + (min_travel * cost_per_min);
     }
