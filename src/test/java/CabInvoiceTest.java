@@ -13,4 +13,10 @@ public class CabInvoiceTest {
 
     }
 
+
+    @Test
+    public void avgFareJourney() {
+        Assertions.assertEquals(12.5,ci.avgFare(2,5,2));
+    }
+
 }

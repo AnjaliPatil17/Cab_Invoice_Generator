@@ -22,5 +22,10 @@ public class CabInvoice {
         return (km_distance * cost_per_Km) + (min_travel * cost_per_min);
     }
 
+    public static double avgFare(double km_distance,double min_travel,double ride_count){
+        return (km_distance * cost_per_Km + min_travel * cost_per_min)/ride_count;
+    }
+
+
 
 }

@@ -30,26 +30,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2j0RXYkLBAWoINTBDYcEPlgUtfm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.CabInvoiceTest.totalFareJourney.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CabInvoiceTest.totalFareJourney.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="JUnit.CabInvoiceTest.avgFareJourney">
+    <configuration name="CabInvoiceTest.avgFareJourney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cab_Invoice_Generator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CabInvoiceTest" />
+      <option name="METHOD_NAME" value="avgFareJourney" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CabInvoiceTest.totalFareJourney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Cab_Invoice_Generator" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CabInvoiceTest.avgFareJourney" />
         <item itemvalue="JUnit.CabInvoiceTest.totalFareJourney" />
       </list>
     </recent_temporary>
